@@ -54,8 +54,6 @@ to calculate:
 ai-search-algorithms/
 │
 ├── notebooks/
-├── src/
-├── assets/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -83,4 +81,4 @@ ai-search-algorithms/
 
 ## Author
 
-Novandy
+Novandy Triarto Wahyono
