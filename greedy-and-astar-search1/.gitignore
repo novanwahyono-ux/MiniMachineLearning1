@@ -1,0 +1,37 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Virtual Environment
+
+venv/
+env/
+.venv/
+
+# VSCode
+
+.vscode/
+
+# MacOS
+
+.DS_Store
+
+# Logs
+
+*.log
+
+# Cache
+
+.cache/
+
+# Temporary Files
+
+tmp/
+temp/
